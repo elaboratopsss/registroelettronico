@@ -1,2 +1,0 @@
-# psss
-Progetto di PSSS
